@@ -1,0 +1,191 @@
+* {
+    margin: 0;
+    padding: 0;
+    }
+
+body{
+    font-family:  'Poppins', sans-serif; 
+}
+.container{
+    margin-bottom: 100px;
+}
+.bg_area{
+    background-image: url(images/donation1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.text-area{
+    padding-top: 12%;
+    padding-bottom: 15%;
+    width: 700px;
+    margin: auto;
+    text-align: center;
+}
+.text-area h1{
+    font-size: 55px;
+    color: #FFFFFF;   
+}
+.h-text{
+   margin-bottom: 15px;
+}
+.p-text{
+    color: #FFFFFF;
+    font-size: 15px;
+    line-height: 25px;
+    width: 500px;
+    text-align: center;
+    margin:auto;
+   
+}
+.donate_btn{
+    margin-top: 35px;
+    /* text-decoration: none; */
+}
+.d-button{
+    text-decoration: none;
+    color: #FFFFFF;
+    font-weight: bold;
+    background-color: #FF5959;
+    padding: 15px;
+    border-radius: 5px;
+}
+.donate_information, .d_information{
+    margin: auto;
+    text-align: center;
+    width: 700px;
+}
+.t_donate, .donate_plan{
+    font-size: 40px;
+    font-weight: 700;
+    margin-bottom: 20px;
+}
+.p_donate, .d_text{
+    font-size: 15px;
+    color: #707070;
+    width: 500px;
+    text-align: center;
+    margin: auto;
+    line-height: 20px;
+    margin-bottom: 20px;
+}
+.amount_area{
+    text-align: center;
+    margin-bottom: 20px;
+   
+    
+}
+.amount{
+    display: inline-block;
+    font-size: 30px;
+    margin: 5px;
+    padding:20px 8px 20px 8px;
+    color: #707070;
+    background-color: #FAFAFA;
+    border-radius: 5px;
+}
+#amount{
+    background-color: #FFEEEE;
+    color: #FF5959;
+    border: 2px solid #FF5959;
+    border-radius: 5px;
+}
+.amount_area h1:hover{
+    background-color: #FFEEEE;
+    color: #FF5959;
+    border: 2px solid #FF5959;
+    border-radius: 5px;
+   
+}
+
+.border{
+    width: 500px;
+    border-bottom: 1px solid#DADADA;
+    margin:auto;
+    margin-bottom: 30px;
+}
+.border input{
+    border: none;
+    outline: none;
+    background: none;
+    font-size:16px;
+    font-weight: 700;
+    padding: 8px 0;
+}
+::placeholder {
+    color: #B3B3B3;
+}
+
+.f_info{
+    margin: auto;
+    text-align: center;
+
+
+}
+.all_text{
+    width: 300px;
+    display:inline-block;
+    margin: 15px;
+    border-radius: 8px;
+    
+
+  
+}
+.food_area{
+    background-color: #4F9DA61A;
+}
+.about_shelter{
+    background-color: #FF59591A;
+}
+.education_part{
+    background-color: #FFF4D6;
+}
+.all_details{
+    
+    padding: 30px 26px 35px 28px ;
+    text-align:left;
+    
+}
+.image{
+    margin-bottom: 12px;
+}
+.family_food, .family_shelter, .e_area{
+    font-size: 20px;
+    font-weight: 700;
+    margin-bottom: 12px;
+}
+.food_details, .s_details, .education_details{
+    font-size: 14px;
+    color: #707070;
+    width:245px;
+    line-height: 20px;
+}
+.d_info{
+    display: flex;
+    width: 800px;
+    margin: auto;
+}
+.t_area{
+width: 300px;
+}
+.img_area{
+  width: 350px
+
+}
+.d_image{
+    width: 300px;
+    
+}
+.footer_area{
+    text-align: center;
+    background-color: #0B0D17;
+    padding: 40px;
+}
+.footer_area h3{
+    font-size: 30px;
+    color: #FF5959;
+    margin-bottom: 30px;
+}
+.footer_area p{
+    font-size: 16px;
+    color: #FAFAFA;
+}
